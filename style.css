@@ -1,0 +1,24 @@
+.heading h3{
+    display: inline;
+    }
+    .heading{
+        width: 100%;
+        text-align: left;
+    }
+    
+    .heading button{
+        float : right;
+        border : 1px solid white;
+        width: 130px;
+        font-size: 20px;
+    }
+    #start, #status{
+        font-size: 22px;
+    }
+    .modal-dialog{
+        width:90%;
+    }
+    .instr{
+        width: 45%;
+        display: inline-block;
+    }
